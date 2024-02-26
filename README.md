@@ -1,0 +1,5 @@
+- 👋 Hi, I’m a frontend developer who has strong understanding and rich experience in creating a wonderful, beautiful, and high-optimized user interface using CSS.
+- I am good at Tailwind CSS / Material UI / Bootstrap / Chakra UI.
+- I have over 3 years of experience with frontend frameworks including React, Angular and Vue.js.
+- I am open to be hired by the clients in various time zones.
+- Happy coding 🚗
