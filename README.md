@@ -1,4 +1,4 @@
-Computer is beautiful. I want the perfect 'machine'. I believe Python is the mean to achieve that.
+Computers are truly captivating. I aspire to create the ultimate ‘machine’, and I’m convinced that Python is one of the means to reach that goal, especially given its widespread use in AI.
 
 * Tensorflow / PyTorch
 * Linear Regression / K Means Clustering / Neural Networks
